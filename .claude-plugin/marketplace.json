@@ -1,0 +1,14 @@
+{
+  "name": "openquota",
+  "description": "OpenQuota : ton quota Claude (session 5 h et semaine) affiché en direct au-dessus de la zone de saisie",
+  "owner": {
+    "name": "DA-Crea",
+    "url": "https://github.com/DA-Crea"
+  },
+  "plugins": [
+    {
+      "name": "openquota",
+      "source": "./"
+    }
+  ]
+}

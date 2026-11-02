@@ -1,0 +1,11 @@
+{
+  "name": "openquota",
+  "version": "1.0.0",
+  "description": "Affiche ton quota Claude (session 5 h et semaine) au-dessus de la zone de saisie sur ordinateur, et dans la ligne d'état sur mobile",
+  "author": { "name": "DA-Crea", "url": "https://github.com/DA-Crea" },
+  "homepage": "https://github.com/DA-Crea/OpenQuota",
+  "repository": "https://github.com/DA-Crea/OpenQuota",
+  "license": "MIT",
+  "keywords": ["quota", "usage", "rate-limit", "status"],
+  "types": "./types/index.d.ts"
+}
